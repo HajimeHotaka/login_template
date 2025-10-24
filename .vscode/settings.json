@@ -1,0 +1,20 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.27.4",
+  "editor.rulers": [
+    120
+  ],
+  "editor.wordWrap": "off",
+  "[dart]": {
+    "editor.rulers": [
+      120
+    ],
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    },
+    "dart.lineLength": 120
+  },
+  "FSharp.suggestGitignore": false,
+  "cmake.ignoreCMakeListsMissing": true
+}
